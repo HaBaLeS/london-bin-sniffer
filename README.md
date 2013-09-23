@@ -6,6 +6,8 @@ Mobile Device Detector inspired by London's Recycling Bin with Usertracking. In 
 
 I want to build a showcase a average user can set up and run to show their Friends,Parents,Grandparents how easy it is to monitore a device with wlan enabled.
 
+http://www.wired.co.uk/news/archive/2013-08/09/recycling-bins-are-watching-you
+
 Requirements:
 -------------
 *  WiFi Card with drivers supported by the [aircrack-ng](http://www.aircrack-ng.org/) projekt.
