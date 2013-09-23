@@ -2,7 +2,7 @@ from scapy.all import *
 import time
 import dbutils
 
-ds = dbutils.SqliteDataStore('sniffer.db'
+ds = dbutils.SqliteDataStore('sniffer.db')
 
 def packetHandler(pkt):
 	if pkt.haslayer(Dot11ProbeReq):
